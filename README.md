@@ -52,6 +52,7 @@ Modify the initial conditions in the script to analyze different types of orbits
 r0 = 3.0e10;  % Change initial radial distance
 
 v_phi0 = 2.5e4;  % Modify angular velocity
+
 Run the script again to observe the impact of these changes on the orbit.
 
 Future Improvements
